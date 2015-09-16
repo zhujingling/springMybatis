@@ -1,0 +1,30 @@
+[I][17:12:37]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3184df1d: startup date [Wed Sep 16 17:12:37 CST 2015]; root of context hierarchy
+[I][17:12:38]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[I][17:12:39]Loading properties file from class path resource [jdbc.properties]
+[I][17:15:41]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5c21bae0: startup date [Wed Sep 16 17:15:41 CST 2015]; root of context hierarchy
+[I][17:15:41]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[I][17:15:42]Loading properties file from class path resource [jdbc.properties]
+[I][17:21:52]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a540251: startup date [Wed Sep 16 17:21:52 CST 2015]; root of context hierarchy
+[I][17:21:52]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[I][17:21:53]Loading properties file from class path resource [db.properties]
+[I][17:22:31]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@32137937: startup date [Wed Sep 16 17:22:31 CST 2015]; root of context hierarchy
+[I][17:22:31]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[I][17:22:32]Loading properties file from class path resource [db.properties]
+[I][17:25:56]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6f71cb85: startup date [Wed Sep 16 17:25:56 CST 2015]; root of context hierarchy
+[I][17:25:56]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[I][17:25:57]Loading properties file from class path resource [db.properties]
+[I][17:27:34]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@11641923: startup date [Wed Sep 16 17:27:34 CST 2015]; root of context hierarchy
+[I][17:27:34]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[I][17:27:34]Loading properties file from class path resource [db.properties]
+[I][17:31:52]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3184df1d: startup date [Wed Sep 16 17:31:52 CST 2015]; root of context hierarchy
+[I][17:31:52]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[I][17:31:53]Loading properties file from class path resource [db.properties]
+[I][17:31:57]{"fk_roles_pk":"5ac47af54e9502f4014e95f0406c0000","fk_station_pk":"q","user_birthday":"2015-06-27T00:00:00","user_email":"123823@qq.com","user_intime":"2015-06-27T00:00:00","user_name":"魏正","user_number":"HX20105718","user_password":"11","user_phone":"13381086775","user_pk":"402880304e33e46e014e34087e440000","user_sex":"男"}
+[I][17:31:57]{"fk_roles_pk":"5ac47af54e9502f4014e95f0406c0000","fk_station_pk":"r","user_birthday":"2015-07-06T00:00:00","user_email":"myd521@qq.com","user_intime":"2015-07-06T00:00:00","user_name":"马玉","user_number":"211","user_password":"123","user_phone":"13381086775","user_pk":"ff8081814e62293e014e627e8c050000","user_sex":"男"}
+[I][17:31:57]{"fk_roles_pk":"5ac47af54e9502f4014e95f0406c0000","fk_station_pk":"","user_birthday":"2015-07-09T00:00:00","user_email":"myd521@qq.com","user_intime":"2015-07-06T00:00:00","user_name":"cs","user_number":"cs","user_password":"cs","user_phone":"13381086775","user_pk":"ff8081814e70a670014e70a700c60000","user_sex":"女"}
+[I][17:32:37]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a73f761: startup date [Wed Sep 16 17:32:37 CST 2015]; root of context hierarchy
+[I][17:32:37]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[I][17:32:37]Loading properties file from class path resource [db.properties]
+[I][17:32:38]{"fk_roles_pk":"5ac47af54e9502f4014e95f0406c0000","fk_station_pk":"q","user_birthday":"2015-06-27T00:00:00","user_email":"123823@qq.com","user_intime":"2015-06-27T00:00:00","user_name":"魏正","user_number":"HX20105718","user_password":"11","user_phone":"13381086775","user_pk":"402880304e33e46e014e34087e440000","user_sex":"男"}
+[I][17:32:38]{"fk_roles_pk":"5ac47af54e9502f4014e95f0406c0000","fk_station_pk":"r","user_birthday":"2015-07-06T00:00:00","user_email":"myd521@qq.com","user_intime":"2015-07-06T00:00:00","user_name":"马玉","user_number":"211","user_password":"123","user_phone":"13381086775","user_pk":"ff8081814e62293e014e627e8c050000","user_sex":"男"}
+[I][17:32:38]{"fk_roles_pk":"5ac47af54e9502f4014e95f0406c0000","fk_station_pk":"","user_birthday":"2015-07-09T00:00:00","user_email":"myd521@qq.com","user_intime":"2015-07-06T00:00:00","user_name":"cs","user_number":"cs","user_password":"cs","user_phone":"13381086775","user_pk":"ff8081814e70a670014e70a700c60000","user_sex":"女"}
